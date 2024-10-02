@@ -32,6 +32,8 @@ While WebSockets provide real-time, bi-directional communication between clients
 2. **Message Broadcasting**: When a user sends a message, it is broadcast to all users in the current session.
 3. **Real-time Communication**: Thanks to Socket.io, messages from all users are synchronized in real-time, providing an interactive and live chat experience.
 
+   https://github.com/the-protechtron/marvel-task/blob/main/level%20-2/reports/task1/Screenshot%202024-10-02%20at%202.41.58%E2%80%AFPM.png
+
 ## Conclusion
 
 By combining **Node.js** and **Socket.io**, developers can create real-time, scalable chat applications that efficiently handle multiple users. The event-driven, non-blocking architecture of Node.js ensures high performance, while Socket.io simplifies multi-user communication, making it an ideal choice for modern web applications.
